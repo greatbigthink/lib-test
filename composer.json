@@ -1,0 +1,10 @@
+{
+  "name": "greatbigthink/lib-test",
+  "description": "Test libraries for the GBT Framework",
+  "license": "MIT",
+  "autoload": {
+    "psr-4":{
+      "framework\\test\\": "src/"
+    }
+  }
+}
